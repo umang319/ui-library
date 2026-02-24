@@ -1,3 +1,4 @@
+import "./Input.module.css";
 export default function Input({
   label,
   error,
