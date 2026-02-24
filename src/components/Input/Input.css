@@ -5,9 +5,18 @@
 }
 
 .ui-input {
-  padding: 8px;
-  border: 1px solid #d1d5db;
-  border-radius: 4px;
+  width: 100%;
+  height: 44px;
+  padding: 10px 42px 10px 14px;
+  border-radius: 8px;
+  border: 1px solid #b3b3b3;
+  background: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  color: #1a1a1a;
+  box-sizing: border-box;
+  outline: none;
+  font-family: Inter;
 }
 
 .ui-input-error {

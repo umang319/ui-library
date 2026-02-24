@@ -1,13 +1,23 @@
 .ui-btn {
-  padding: 10px 16px;
-  border-radius: 6px;
-  border: none;
-  cursor: pointer;
+  width: 360px;
+  height: 44px;
+  padding: 10px 18px;
+  border-radius: 8px;
+  border: 1px solid #10069f;
+  background: #10069f;
+  color: #fff;
   font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  cursor: pointer;
+  margin-top: 8px;
+  font-family: inherit;
+  box-shadow: 0px 1px 2px 0px #1018280d;
+  transition: background 0.2s;
 }
 
 .ui-btn-primary {
-  background: #2563eb;
+  background: #10069f;
   color: white;
 }
 
