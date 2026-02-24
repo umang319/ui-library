@@ -1,0 +1,17 @@
+.ui-btn {
+  padding: 10px 16px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.ui-btn-primary {
+  background: #2563eb;
+  color: white;
+}
+
+.ui-btn-secondary {
+  background: #e5e7eb;
+  color: black;
+}

@@ -1,0 +1,16 @@
+.ui-input-group {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.ui-input {
+  padding: 8px;
+  border: 1px solid #d1d5db;
+  border-radius: 4px;
+}
+
+.ui-input-error {
+  color: red;
+  font-size: 12px;
+}
